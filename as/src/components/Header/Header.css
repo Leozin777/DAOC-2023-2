@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+nav a:hover {
+    color: lightgray;
+}
+
+.fundo{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 10vh;
+}

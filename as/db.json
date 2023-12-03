@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grand Theft Auto V",
+      "price": 59.99,
+      "description": "Ação, aventura e muita adrenalina em Los Santos.",
+      "photo_url": "https://th.bing.com/th/id/R.c61364a95c0b344ea75859aa73086cc6?rik=NCc1gOlwSgljrA&riu=http%3a%2f%2fwww.mrmovie-review.com%2fwp-content%2fuploads%2f2013%2f08%2fgrand-theft-auto-5-header-image.jpg&ehk=Hx4wIDa9MgmIxgwQFItvzfCpBMRCQuznjXU4zZtAGZw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "name": "Red Dead Redemption 2",
+      "price": 49.99,
+      "description": "Explore o Velho Oeste e viva uma emocionante história de caubóis.",
+      "photo_url": "https://th.bing.com/th/id/R.f1f2496bcd5721b924caf06b8e486afb?rik=mfRn4Y8WJRRKwg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "name": "The Witcher 3: Wild Hunt",
+      "price": 39.99,
+      "description": "Um RPG épico com monstros, magia e escolhas impactantes.",
+      "photo_url": "https://th.bing.com/th/id/OIP.zSz654dEPUcHtJ487s0KagHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 4,
+      "name": "Cyberpunk 2077",
+      "price": 54.99,
+      "description": "Entre no futurístico Night City e viva aventuras cibernéticas.",
+      "photo_url": "https://i0.wp.com/thekoalition.com/images/2020/12/Cyberpunk-2077.jpg?fit=1920%2C1080&ssl=1"
+    },
+    {
+      "id": 5,
+      "name": "Assassin's Creed Valhalla",
+      "price": 44.99,
+      "description": "Viva a saga dos vikings em uma épica jornada pela Inglaterra.",
+      "photo_url": "https://th.bing.com/th/id/OIP.StZZ1EarDO_cGHQZ5zuBzwHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 6,
+      "name": "Minecraft",
+      "price": 29.99,
+      "description": "Construa e explore um mundo infinito de blocos.",
+      "photo_url": "https://th.bing.com/th/id/OIP.8_jk7XNgmdEGGPL_FIhEjQHaEK?w=1024&h=576&rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 7,
+      "name": "EAFC 24",
+      "price": 59.99,
+      "description": "Experimente o realismo do futebol com gráficos impressionantes.",
+      "photo_url": "https://www.mundodeportivo.com/alfabeta/hero/2023/06/miniatura-novedades-eafc-24.png?width=1200"
+    },
+    {
+      "id": 8,
+      "name": "Call of Duty: Warzone 2.0",
+      "price": 0,
+      "description": "Participe de batalhas intensas no modo battle royale gratuito.",
+      "photo_url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/11/Call-Of-Duty-Warzone-2.0-Launch.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Final Fantasy VII Remake",
+      "price": 59.99,
+      "description": "Reviva a emocionante história de Cloud Strife em Midgar.",
+      "photo_url": "https://th.bing.com/th/id/OIP.BYco13Q3Qp2kiLKNVD6HBQHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 10,
+      "name": "Resident Evil Village",
+      "price": 54.99,
+      "description": "Explore uma vila macabra em busca de respostas e sobreviva ao horror.",
+      "photo_url": "https://th.bing.com/th/id/OIP.QfKKAwKjwqyXhoAASIqALAHaD4?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "GTA IV",
+      "price": "40",
+      "desciption": "Em \"Grand Theft Auto IV\", Niko Bellic, um imigrante em busca do sonho americano, se vê envolto em traições e dilemas morais enquanto navega pelas complexidades do submundo de Liberty City, enfrentando desafios e escolhas que moldarão seu destino.",
+      "photo_url": "https://th.bing.com/th/id/OIP.pAS734x_c1dpFmIMv133xAHaEo?rs=1&pid=ImgDetMain",
+      "id": 12
+    },
+    {
+      "name": "GTA III",
+      "price": "9.99",
+      "desciption": "Em \"Grand Theft Auto III\", um protagonista misterioso embarca em uma jornada implacável pelo crime e pela vingança nas caóticas ruas de Liberty City, mergulhando em uma trama de traições e poder.",
+      "photo_url": "https://2.bp.blogspot.com/-mAmYiu-iHJc/VhBOFIMQzwI/AAAAAAAABBo/vWmjMWS9QkI/s1600/GrandTheftAuto367.JPG",
+      "id": 13
+    },
+    {
+      "name": "GTA Vice City",
+      "price": "14.99",
+      "description": " \"Grand Theft Auto: Vice City\" acompanha Tommy Vercetti em sua ascensão ao topo do submundo criminal de Vice City, uma cidade inspirada em Miami nos anos 80. Nesta trama de traições e ambições, Tommy busca estabelecer seu império enquanto enfrenta adversários e mergulha nas extravagâncias da década.",
+      "photo_url": "https://th.bing.com/th/id/R.668b71706f7c3d8e7dddb296dcaf1270?rik=jHKRO5bJ26F5Ig&riu=http%3a%2f%2f1.bp.blogspot.com%2f-eMJx0zSc0Lc%2fUYTp_LnxHmI%2fAAAAAAAAAqc%2fiEvOp7K179Y%2fs1600%2fGTA-vice-city-grand-theft-auto-android-ios-mobile.jpeg&ehk=mWpwLFTL9qZxsPy1ld5wvzimRXlynlWKbgPJKDp75ik%3d&risl=&pid=ImgRaw&r=0",
+      "id": 14
+    },
+    {
+      "name": "AAAAAAAAAAA",
+      "price": "2",
+      "description": "3",
+      "photo_url": "4",
+      "id": 15
+    }
+  ]
+}

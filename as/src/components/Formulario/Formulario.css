@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+.nomeDoCampo{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+.background{
+    background-color: #f1f1f1;
+    padding: 40px;
+    border-radius: 10%;
+    min-width: 400px;
+    height: 500px;
+}
+
+.botaoEnviar{
+    color: white;
+    background-color: #393839;
+    border: none;
+    width: 330px;
+    height: 40px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+input{
+    width: 330px;
+    height: 30px;
+    margin-bottom: 15px;
+    border: none;
+}
+
+h2{
+    margin-bottom: 15px;
+    font-size: 25px;
+}
