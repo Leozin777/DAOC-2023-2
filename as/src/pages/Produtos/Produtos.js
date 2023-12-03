@@ -18,7 +18,7 @@ function Produtos(){
             
             <div className="card-container">
                 {data && data.map((product) => 
-                    <Card key={product.id} props={product} largura={'400px'} altura={'400px'}/>
+                    <Card key={product.id} game={product} largura={'400px'} altura={'400px'}/>
                 )}
             </div>
         </>

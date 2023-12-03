@@ -22,7 +22,7 @@ function Produto(){
             <Header title={"JOGOS"}/>
 
             <div className="centro">
-                <Card  props={data} largura={'150vh'} altura={'70vh'} descricao={true}/>
+                <Card game={data} largura={'150vh'} altura={'70vh'} descricao={true}/>
             </div>
         </>
     )
