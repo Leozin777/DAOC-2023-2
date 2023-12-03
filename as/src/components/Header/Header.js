@@ -16,7 +16,7 @@ const Header = ({title}) => {
                     <nav className='navegador'>
                         <Link to={"/"}>HOME</Link>
                         <Link to={"/produtos"}>PRODUTOS</Link>
-                        <Link to={"/contato"}>CONTATO</Link>
+                        <Link to={"/cadastro"}>CADASTRO</Link>
                     </nav>
                 </div>
             </div>

@@ -19,10 +19,10 @@ function Produto(){
 
     return (
         <>
-            <Header title={"PRODUTOS"}/>
+            <Header title={"JOGOS"}/>
 
             <div className="centro">
-                <Card  props={data} largura={'160vh'} altura={'80vh'} descricao={true}/>
+                <Card  props={data} largura={'150vh'} altura={'70vh'} descricao={true}/>
             </div>
         </>
     )

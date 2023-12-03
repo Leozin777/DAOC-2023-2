@@ -14,7 +14,7 @@
 .info{
     background-color: black;
     color: white;
-    height: 15vh;
+    height: 150px;
     border-bottom-right-radius: var(--tamanho-borda);
     border-bottom-left-radius: var(--tamanho-borda);
     text-align: center;
